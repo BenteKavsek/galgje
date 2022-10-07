@@ -12,3 +12,4 @@
 ## Beurten
 1. o - fout
 2. i - goed!
+3. t
