@@ -15,3 +15,4 @@
 3. t - goeeddd!
 4. q - nopeeee
 5. s - jaaaa!
+6. is het word FIETS?
