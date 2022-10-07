@@ -13,3 +13,4 @@
 1. o - fout
 2. i - goed!
 3. t - goeeddd!
+4. q 
