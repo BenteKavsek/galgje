@@ -14,4 +14,4 @@
 2. i - goed!
 3. t - goeeddd!
 4. q - nopeeee
-5. s
+5. s - jaaaa!
