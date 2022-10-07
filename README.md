@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|i|.|t|.|
+|F|i|e|t|s|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -15,4 +15,4 @@
 3. t - goeeddd!
 4. q - nopeeee
 5. s - jaaaa!
-6. is het word FIETS?
+6. is het word FIETS? JAAAAAAAAAAAAAA
